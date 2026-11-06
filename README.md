@@ -2,7 +2,7 @@
 Powerful http(s) web proxy and flagship TitaniumNetwork proxy
 #### Maintained by [@estro.help](https://discord.com/users/431190024596226050) on Discord
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Fracital/powerMouse/tree/master) [![Deploy to Azure](./azure.svg)](https://azuredeploy.net/repository=https://github.com/Fracital/powerMouse) [![Run on Repl.it](https://repl.it/badge/github/Titanium-Network/powermouse)](https://repl.it/github/Titanium-Network/powermouse)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Fracital/powerMouse/tree/master) [![Deploy to Azure](https://raw.githubusercontent.com/Fracital/powerMouseV1/refs/heads/master/azure.svg)](https://azuredeploy.net/repository=https://github.com/Fracital/powerMouse) [![Run on Repl.it](https://repl.it/badge/github/Titanium-Network/powermouse)](https://repl.it/github/Titanium-Network/powermouse)
 
 ## Installation:
 ### Local Installation (Windows)
