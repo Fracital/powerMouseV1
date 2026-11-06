@@ -40,7 +40,7 @@ try{
 	require('./urlManager.js');
 	
 	(async()=>{
-		var ipvRes=await fetch('http://bot.whatismyipaddress.com/'),
+		var ipvRes=await fetch('http://api.ipify.org/'),
 			ipv=await ipvRes.text(),
 			tlds=/./g,
 			tldList=[],
